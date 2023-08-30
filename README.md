@@ -10,3 +10,7 @@ Fault diagnosis (FD) has received attention because of its importance in maintai
 
 ![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/3335d0eb-3c39-4bb7-b9b2-a0522272ba29)
 
+## Global Correlation Extraction:
+
+![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/4bc47eb6-1337-4825-b79c-8abe8dc8e3aa)
+
