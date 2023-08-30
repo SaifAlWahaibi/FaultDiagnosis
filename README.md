@@ -20,9 +20,14 @@ Fault diagnosis (FD) has received attention because of its importance in maintai
 
 ![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/6cf142d0-9c6f-4e63-9d72-3427fe3fc5bc)
 
-*LGS-CNN and CNN Models 1-5 are trained and validated on the same dataset /n
-**LGS-CNN and CNN Models 1-5 have a similar number of trainable parameters with the CNN madels having slightly more /n
-***Details on Models 1-5 for LGS-CNN and CNN can be found in the paper
+![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/3bd95b9c-5d24-4186-8acd-a5649f4b71aa)
+
+
+*LGS-CNN and CNN Models 1-5 are trained and validated on the same dataset
+**LGS-CNN and CNN Models 6 and 7 are trained and testing on the same dataset
+**LGS-CNN and CNN Models 1-5 have a similar number of trainable parameters with the CNN madels having slightly more
+**LGS-CNN and CNN Models 6 and 7 have a similar number of trainable parameters with the CNN madels having slightly more
+***Details on Models 1-7 for LGS-CNN and CNN can be found in the paper
 
 ### LGS-CNN Local Receptive Fields:
 
