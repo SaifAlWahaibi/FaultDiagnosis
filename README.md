@@ -33,7 +33,7 @@ Fault diagnosis (FD) has received attention because of its importance in maintai
 
 ![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/0bd68cc2-ae01-45d1-a289-6bb77edd20f1)
 
-### t-SNE Plot:
+### t-SNE Plots:
 
 #### After feature extraction with LGS-CNN:
 
