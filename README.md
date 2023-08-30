@@ -24,13 +24,25 @@ Fault diagnosis (FD) has received attention because of its importance in maintai
 
 
 *LGS-CNN and CNN Models 1-5 are trained and validated on the same dataset
-**LGS-CNN and CNN Models 6 and 7 are trained and testing on the same dataset
-**LGS-CNN and CNN Models 1-5 have a similar number of trainable parameters with the CNN madels having slightly more
-**LGS-CNN and CNN Models 6 and 7 have a similar number of trainable parameters with the CNN madels having slightly more
-***Details on Models 1-7 for LGS-CNN and CNN can be found in the paper
+**LGS-CNN and CNN Models 6 and 7 are trained and tested on the same dataset
+***LGS-CNN and CNN Models 1-5 have a similar number of trainable parameters with the CNN madels having slightly more
+****LGS-CNN and CNN Models 6 and 7 have a similar number of trainable parameters with the CNN madels having slightly more
+*****Details on Models 1-7 for LGS-CNN and CNN can be found in the paper
 
 ### LGS-CNN Local Receptive Fields:
 
 ![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/0bd68cc2-ae01-45d1-a289-6bb77edd20f1)
 
+### t-SNE Plot:
 
+#### After feature extraction with LGS-CNN:
+
+![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/fd0ee2a7-6cdc-4deb-804f-de0d411e9953)
+
+#### Before feature extraction with LGS-CNN:
+
+![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/9fc75997-4ec5-42df-a4ea-7855e31052d3)
+
+### Comparison with other Models:
+
+![image](https://github.com/SaifAlWahaibi/FaultDiagnosis/assets/106843163/2fc5b534-b64a-40d5-9ee3-a6418ed353d9)
