@@ -2,7 +2,7 @@
 
 NOTE: I am trying to figure out how to upload the dataset used in the paper. It's a 65 MB zip file
 
-This page contains all the codes related to the following paper "Improving convolutional neural networks for fault diagnosis in chemical processes by incorporating global correlations," published by myself, Samuel Abiola, Myisha A. Chowdhury and my Ph.D. advisor Qiugang Lu.
+This page contains the main LGS-CNN codes related to the following paper "Improving convolutional neural networks for fault diagnosis in chemical processes by incorporating global correlations," published by myself, Samuel Abiola, Myisha A. Chowdhury and my Ph.D. advisor Qiugang Lu.
 
 ## Abstract:
 
